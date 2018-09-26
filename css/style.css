@@ -9,3 +9,21 @@ body {
     margin: 0;
 
 }
+
+
+
+/* ==== Classes ==== */
+
+.img-size {
+
+    max-width: 50vw;
+    height: auto;
+
+}
+
+.center {
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
